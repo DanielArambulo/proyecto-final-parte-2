@@ -1,0 +1,40 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+h1{
+    padding: 10px;
+    margin: 10px;
+    text-align: center;
+    color: white;
+}
+body{
+    background-image:url(img/flujo-de-senal-del-estudio-de-grabacion-daw.jpg) ;
+    background-repeat: no-repeat;
+    background-size: cover;
+    margin: 10px;
+    padding: 10px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+nav{
+    text-align: end;
+    padding: 10px;
+    margin: 10px;
+    
+}
+a{
+    color: white;
+    padding: 10px;
+    margin: 10px;
+}
+h2{
+    color: white;
+    margin: 0px;
+    padding: 0px;
+}
+p{
+    color: white;
+    padding: 0px;
+    margin: 0px;
+}

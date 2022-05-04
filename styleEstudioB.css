@@ -1,0 +1,46 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+body{
+    background-image: url(img/Estudio\ B.avif);
+    margin: 10px;
+    padding: 10px;
+    
+}
+nav{
+    padding: 10px;
+    margin: 10px;
+    text-align: end;
+}
+a{
+    color: white;
+    margin: 10px;
+    padding: 10px;
+}
+h1{
+    color: white;
+    margin: 10px;
+    padding: 10px;
+}
+p{
+    color: white;
+    padding: 0px;
+    margin: 0px;
+}
+h2{
+    color: white;
+    margin: 10px;
+    padding: 10px;
+}
+main{
+    color: white;
+    margin: 0px;
+    padding: 0px;
+}
+h3{
+    color: white;
+    margin :10px;
+    padding: 10px;
+}

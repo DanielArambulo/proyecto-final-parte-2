@@ -1,0 +1,49 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+body{
+    background-image: url(img/descarga.webp);
+    background-size: cover;
+    margin: 0px;
+    padding: 0px;
+}
+nav{
+    margin: 10px;
+    padding: 10px;
+    text-align: end;
+}
+header{
+    background-color: white;
+}
+a{
+    color: white;
+    padding: 10px;
+    margin: 10px;
+}
+h1{
+    color: white;
+    padding: 0px;
+    margin: 0px;
+}
+p{
+    color: white;
+    margin: 0px;
+    padding: 0px;
+}
+h2{
+    color: white;
+    padding: 10px;
+    margin: 10px;
+}
+main{
+    color: white;
+    padding: 0px;
+    margin: 0px;
+}
+h3{
+    color: white;
+    margin: 10px;
+    padding: 10px;
+}
